@@ -1,0 +1,83 @@
+# Switch User Script
+
+This project contains a script named "switch_user.sh" that allows switching the current user to the user "betty".
+
+## Description
+
+The "switch_user.sh" script is a bash script that utilizes the `su` command to switch the current user to the user "betty". 
+
+## Usage
+
+To use the script, follow these steps:
+
+1. Ensure that the user "betty" exists on your system.
+2. Make the "switch_user.sh" script executable using the following command:
+
+   ```bash
+   chmod +x switch_user.sh
+
+# Get Username Script
+
+This project contains a script named "get_username.sh" that prints the effective username of the current user.
+
+## Description
+
+The "get_username.sh" script is a bash script that utilizes the `whoami` command to retrieve and print the effective username of the current user.
+
+## Usage
+
+To use the script, follow these steps:
+
+1. Make the "get_username.sh" script executable using the following command:
+
+   ```bash
+   chmod +x get_username.sh
+
+# Get User Groups Script
+
+This project contains a script named "get_user_groups.sh" that prints all the groups the current user is part of.
+
+## Description
+
+The "get_user_groups.sh" script is a bash script that utilizes the `groups` command to retrieve and print all the groups the current user is part of.
+
+## Usage
+
+To use the script, follow these steps:
+
+1. Make the "get_user_groups.sh" script executable using the following command:
+
+   ```bash
+   chmod +x get_user_groups.sh
+# Change Owner Script
+
+This project contains a script named "change_owner.sh" that changes the owner of the file "hello" to the user "betty".
+
+## Description
+
+The "change_owner.sh" script is a bash script that utilizes the `chown` command to change the owner of the file "hello" to the user "betty".
+
+## Usage
+
+To use the script, follow these steps:
+
+1. Make the "change_owner.sh" script executable using the following command:
+
+   ```bash
+   chmod +x change_owner.sh
+# Create Empty File Script
+
+This project contains a script named "create_file.sh" that creates an empty file called "hello".
+
+## Description
+
+The "create_file.sh" script is a bash script that utilizes the `touch` command to create an empty file named "hello".
+
+## Usage
+
+To use the script, follow these steps:
+
+1. Make the "create_file.sh" script executable using the following command:
+
+   ```bash
+   chmod +x create_file.sh
